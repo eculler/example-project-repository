@@ -20,5 +20,6 @@ Complete instructions for accessing enough data to run the workflow.
   * Working urls
   * If your url points at a web form, you must have complete info on what to put there
   * If possible, you should host data or a data subset on GitHub
+  * CITATIONS
   
 > If you need to process raw data before sending it out, you can include a notebook or script that that I will not run.
