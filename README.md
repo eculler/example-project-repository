@@ -1,5 +1,7 @@
 # Example Project Repository
 
+[![DOI](https://zenodo.org/badge/633148407.svg)](https://zenodo.org/badge/latestdoi/633148407)
+
 An example repository for Earth Analytics Certificate projects.
 
 ## Project Description
